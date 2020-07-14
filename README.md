@@ -1,4 +1,4 @@
-# -postgraduate_entrance_exams
+# Postgraduate entrance exams
 ---
 ## [912考研](https://github.com/IammyselfYBX/review_the_national_post-graduate_entrance_examination)
 
